@@ -21,12 +21,11 @@
  🎙️  Big fan of <mark><strong>Stefanie Sun</strong></mark>
 
 
-
 ---
 
 <!--START_SECTION:activity-->
 
-🐣 REPO [SilverPilot](https://github.com/Tsubaki-01/SilverPilot) An elderly-targeted healthcare RAG + multi-Agent system based on the Supervisor mode
+🐣 REPO [Tsubaki-01/SilverPilot](https://github.com/Tsubaki-01/SilverPilot) An elderly-targeted healthcare RAG + multi-Agent system based on the Supervisor mode
 
 💪 PR [#3800](https://github.com/ZLMediaKit/ZLMediaKit/pull/3800) in [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)
 
@@ -36,4 +35,8 @@
 ---
 
 
+![GitHub Metrics](./github-metrics.svg)
+
+
+---
 
