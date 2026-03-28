@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  # 每天国际标准时间 0 点（北京时间早上 8 点）自动更新一次
+  schedule: [{cron: "0 0 * * *"}]
+  # 支持你在 Actions 页面手动点击运行
+  workflow_dispatch:
+  # 当你提交代码到主分支时自动运行
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 使用我们在第二步存入的密钥
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # ⚠️⚠️⚠️ 注意：请把你真实的 GitHub 用户名替换掉下面的文字 ⚠️⚠️⚠️
+          user: Tsubaki-01
+          
+          # 基础配置项
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
