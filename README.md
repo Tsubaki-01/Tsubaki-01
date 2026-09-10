@@ -16,9 +16,11 @@
 
  🦕 How to reach me: <mark><strong>wengqiang9198@gmail.com</strong></mark>
 
+ 🤝 Seeking jobs & internships
+
  🦙 Always learning
 
- 🎙️  Big fan of <mark><strong>Stefanie Sun</strong></mark>
+ 🎙️ Big fan of <mark><strong>Stefanie Sun</strong></mark>
 
  🐆 芝士雪豹
 
