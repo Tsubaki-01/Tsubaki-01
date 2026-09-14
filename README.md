@@ -16,7 +16,7 @@
 
  🦕 How to reach me: <mark><strong>wengqiang9198@gmail.com</strong></mark>
 
- 🤝 Seeking <mark><strong>jobs & internships</strong></mark>
+ 🤝 Looking for <mark><strong>jobs & internships</strong></mark>
 
  🦙 Always learning
 
