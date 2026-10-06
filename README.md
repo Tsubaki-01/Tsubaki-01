@@ -26,7 +26,7 @@
 
 ---
 
-| ![GitHub Metrics](./github-metrics.svg) | [![GHFind](https://ghfind.com/api/card/mini/tsubaki-01)](https://ghfind.com/u/tsubaki-01?ref=badge) |
+| [![GHFind](https://ghfind.com/api/card/mini/tsubaki-01)](https://ghfind.com/u/tsubaki-01?ref=badge) | ![GitHub Metrics](./github-metrics.svg) |
 | --------------------------------------- | ------------------------------------------------------------ |
 
 
