@@ -42,13 +42,18 @@ Feel free to explore my repositories or reach out — I'd love to connect!
   <tr>
     <td>
       <p><strong>Open-source contributions</strong></p>
+      <!-- contributions:start -->
       <table>
         <tr>
           <td><a href="https://github.com/agentscope-ai/agentscope/pulls?q=is%3Apr+author%3ATsubaki-01"><img src="https://github.com/agentscope-ai.png?size=64" alt="" width="28" height="28" /><br />AgentScope</a></td>
           <td><a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3ATsubaki-01"><img src="https://github.com/bytedance.png?size=64" alt="" width="28" height="28" /><br />DeerFlow</a></td>
           <td><a href="https://github.com/lobehub/lobehub/pulls?q=is%3Apr+author%3ATsubaki-01"><img src="https://github.com/lobehub.png?size=64" alt="" width="28" height="28" /><br />LobeHub</a></td>
         </tr>
+        <tr>
+          <td><a href="https://github.com/ZLMediaKit/ZLMediaKit/pulls?q=is%3Apr%20author%3ATsubaki-01"><img src="https://avatars.githubusercontent.com/u/84565724?s=64&amp;v=4" alt="" width="28" height="28" /><br />ZLMediaKit</a></td>
+        </tr>
       </table>
+      <!-- contributions:end -->
     </td>
     <td rowspan="3" valign="top" width="50%">
       <p><a href="https://github.com/Tsubaki-01/Iris"><img src="https://raw.githubusercontent.com/Tsubaki-01/Iris/master/imgs/logo/logo.png" alt="Iris" width="320" /></a></p>

@@ -5,6 +5,10 @@ on:
   # 支持你在 Actions 页面手动点击运行
   workflow_dispatch:
 
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -26,3 +30,25 @@ jobs:
           # 开启语言分析
           plugin_languages: yes
           plugin_languages_ignored: html, css
+
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Update contribution repositories
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_USER: Tsubaki-01
+        run: python3 .github/scripts/update_contributions.py
+
+      - name: Commit new contribution repositories
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update contribution repositories"
+          git pull --rebase
+          git push
