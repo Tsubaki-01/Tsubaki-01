@@ -26,8 +26,15 @@
 
 ---
 
-| [![GHFind](https://ghfind.com/api/card/mini/tsubaki-01)](https://ghfind.com/u/tsubaki-01?ref=badge) | ![GitHub Metrics](./github-metrics.svg) |
-| --------------------------------------- | ------------------------------------------------------------ |
+<a href="https://ghfind.com/u/tsubaki-01?ref=badge">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/tsubaki-01?variant=strip&theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/tsubaki-01?variant=strip&theme=light" alt="GitHub Roast 评分卡" width="420" />
+  </picture>
+</a>
+
+![GitHub Metrics](./github-metrics.svg)
 
 
 ---
