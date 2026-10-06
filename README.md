@@ -52,7 +52,7 @@ Feel free to explore my repositories or reach out — I'd love to connect!
     </td>
     <td rowspan="3" valign="top" width="40%">
       <p><a href="https://github.com/Tsubaki-01/Iris"><img src="https://raw.githubusercontent.com/Tsubaki-01/Iris/master/imgs/logo/logo.png" alt="Iris" width="260" /></a></p>
-      <p>A local-first and config-first Agent Kit for Python developers.</p>
+      <p>A local-first and config-first Agent Kit.</p>
       <p>Build agents with YAML configuration.</p>
       <p><a href="https://github.com/Tsubaki-01/Iris">Explore Iris →</a></p>
     </td>
