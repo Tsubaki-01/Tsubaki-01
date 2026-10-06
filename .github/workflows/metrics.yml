@@ -1,11 +1,9 @@
 name: Metrics
 on:
-  # 每天国际标准时间 0 点（北京时间早上 8 点）自动更新一次
-  schedule: [{cron: "0 0 * * *"}]
+  # 每天 UTC 4 点（北京时间中午 12 点）自动更新一次
+  schedule: [{cron: "0 4 * * *"}]
   # 支持你在 Actions 页面手动点击运行
   workflow_dispatch:
-  # 当你提交代码到主分支时自动运行
-  push: {branches: ["master", "main"]}
 
 jobs:
   github-metrics:
