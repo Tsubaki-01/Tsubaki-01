@@ -26,17 +26,8 @@
 
 ---
 
-<!--START_SECTION:activity-->
-
-
-
-<!--END_SECTION:activity-->
-
-
----
-
-
-![GitHub Metrics](./github-metrics.svg)
+| ![GitHub Metrics](./github-metrics.svg) | [![GHFind](https://ghfind.com/api/card/mini/tsubaki-01)](https://ghfind.com/u/tsubaki-01?ref=badge) |
+| --------------------------------------- | ------------------------------------------------------------ |
 
 
 ---
