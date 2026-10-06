@@ -9,10 +9,10 @@
 
 ## About me
 
-<table>
+<table width="500">
   <tr>
-    <td>🦄 Education</td>
-    <td>Currently studying at <a href="https://www.nus.edu.sg/">NUS</a></td>
+    <td width="170">🦄 Education</td>
+    <td width="330">Currently studying at <a href="https://www.nus.edu.sg/">NUS</a></td>
   </tr>
   <tr>
     <td>🐝 Interests</td>
@@ -42,16 +42,16 @@ Feel free to explore my repositories or reach out — I'd love to connect!
   <tr>
     <td>
       <p><strong>Open-source contributions</strong></p>
-      <p>
-        <a href="https://github.com/agentscope-ai/agentscope/pulls?q=is%3Apr+author%3ATsubaki-01"><img src="https://github.com/agentscope-ai.png?size=64" alt="" width="28" height="28" align="middle" /> AgentScope</a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3ATsubaki-01"><img src="https://github.com/bytedance.png?size=64" alt="" width="28" height="28" align="middle" /> DeerFlow</a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/lobehub/lobehub/pulls?q=is%3Apr+author%3ATsubaki-01"><img src="https://github.com/lobehub.png?size=64" alt="" width="28" height="28" align="middle" /> LobeHub</a>
-      </p>
+      <table>
+        <tr>
+          <td><a href="https://github.com/agentscope-ai/agentscope/pulls?q=is%3Apr+author%3ATsubaki-01"><img src="https://github.com/agentscope-ai.png?size=64" alt="" width="28" height="28" /><br />AgentScope</a></td>
+          <td><a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3ATsubaki-01"><img src="https://github.com/bytedance.png?size=64" alt="" width="28" height="28" /><br />DeerFlow</a></td>
+          <td><a href="https://github.com/lobehub/lobehub/pulls?q=is%3Apr+author%3ATsubaki-01"><img src="https://github.com/lobehub.png?size=64" alt="" width="28" height="28" /><br />LobeHub</a></td>
+        </tr>
+      </table>
     </td>
-    <td rowspan="3" valign="top" width="40%">
-      <p><a href="https://github.com/Tsubaki-01/Iris"><img src="https://raw.githubusercontent.com/Tsubaki-01/Iris/master/imgs/logo/logo.png" alt="Iris" width="260" /></a></p>
+    <td rowspan="3" valign="top" width="50%">
+      <p><a href="https://github.com/Tsubaki-01/Iris"><img src="https://raw.githubusercontent.com/Tsubaki-01/Iris/master/imgs/logo/logo.png" alt="Iris" width="320" /></a></p>
       <p>A local-first and config-first Agent Kit.</p>
       <p>Build agents with YAML configuration.</p>
       <p><a href="https://github.com/Tsubaki-01/Iris">Explore Iris →</a></p>
