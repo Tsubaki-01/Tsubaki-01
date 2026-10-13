@@ -79,8 +79,8 @@ Feel free to explore my repositories or reach out — I'd love to connect!
         <p>
           <a href="https://ghfind.com/u/tsubaki-01?ref=badge">
             <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/tsubaki-01?variant=radar&theme=dark&lang=zh" />
-              <img src="https://ghfind.com/api/card/mini/tsubaki-01?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="360" />
+              <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/tsubaki-01?theme=dark&lang=zh" />
+              <img src="https://ghfind.com/api/card/mini/tsubaki-01?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="360" />
             </picture>
           </a>
         </p>
